@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1444060678 source:c:\users\usuario\google drive\fiuba\2015\2\alg y prog ii\lista\lista.c
+	<stdlib.h>
+	"lista.h"
+	<stdbool.h>
+
+1443007614 >
+
+1444059031 c:\users\usuario\google drive\fiuba\2015\2\alg y prog ii\lista\lista.h
+	<stdlib.h>
+	<stdbool.h>
+
+1443007614 source:c:\users\usuario\google drive\fiuba\2015\2\alg y prog ii\lista\main.c
+	"testing.h"
+	<stdio.h>
+
+1443007614 
+
+1443007614 c:\users\usuario\google drive\fiuba\2015\2\alg y prog ii\lista\testing.h
+	<stdbool.h>
+
+1444061717 source:c:\users\usuario\google drive\fiuba\2015\2\alg y prog ii\lista\pruebas_alumno.c
+	"lista.h"
+	"testing.h"
+	<stddef.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1443007614 source:c:\users\usuario\google drive\fiuba\2015\2\alg y prog ii\lista\testing.c
+	"testing.h"
+	<stdio.h>
+
+1442993214 source:/home/wiz/Downloads/Lista/main.c
+	"testing.h"
+	<stdio.h>
+
+1442993214 /home/wiz/Downloads/Lista/testing.h
+	<stdbool.h>
+
+1444276547 source:/home/wiz/Downloads/Lista/pruebas_alumno.c
+	"lista.h"
+	"testing.h"
+	<stddef.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1444044630 /home/wiz/Downloads/Lista/lista.h
+	<stdlib.h>
+	<stdbool.h>
+
+1442993214 source:/home/wiz/Downloads/Lista/testing.c
+	"testing.h"
+	<stdio.h>
+
+1444279600 source:/home/wiz/Downloads/Lista/lista.c
+	<stdlib.h>
+	"lista.h"
+	<stdbool.h>
+
